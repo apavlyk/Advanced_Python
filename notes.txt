@@ -1,0 +1,22 @@
+Magic Methods:
+
+Representation ->
+Compare operators
+Math operators
+Reflected operators
+Alternative assignment
+Type conversion
+Context managers
+Iterators
+Attribute handler
+Descriptors
+
+?! Order of __add__ and __radd__ -> both of operands have both of these methods.
+
+
+module getpass - Portable password input: https://docs.python.org/3.6/library/getpass.html
+tox - Command line driven CI frontend and development task automation tool
+
+https://github.com/asvetlov/pytest-slides
+https://asvetlov.github.io/pytest-slides/#/2/1
+https://www.youtube.com/watch?v=7KgihdKTWY4
